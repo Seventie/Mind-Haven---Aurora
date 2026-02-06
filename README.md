@@ -1,6 +1,6 @@
-# Mind Haven — Aurora
+# Mind Haven - Aurora
 
-Mind Haven — Aurora is a compassionate mental health platform built for people who feel stuck, unheard, or unable to speak openly about what they are going through. It creates a safe space where users can stay anonymous, connect with others facing similar struggles, and receive gentle, empathetic guidance without exposing their identity.
+Mind Haven - Aurora is a compassionate mental health platform built for people who feel stuck, unheard, or unable to speak openly about what they are going through. It creates a safe space where users can stay anonymous, connect with others facing similar struggles, and receive gentle, empathetic guidance without exposing their identity.
 
 ## Mission
 
