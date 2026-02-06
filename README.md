@@ -1,72 +1,101 @@
-# Mind Haven - Empathetic Mental Health Support
+# Mind Haven — Aurora
 
-Mind Haven is a comprehensive mental health platform designed specifically for women and youth. It combines cutting-edge AI technology with a human-centric, neo-brutalist design to provide a safe, anonymous, and supportive environment for emotional wellness.
+Mind Haven — Aurora is a compassionate mental health platform built for people who feel stuck, unheard, or unable to speak openly about what they are going through. It creates a safe space where users can stay anonymous, connect with others facing similar struggles, and receive gentle, empathetic guidance without exposing their identity.
 
-## 🌟 Vision
-To de-stigmatize mental health care by providing accessible, AI-powered tools and connecting users with verified specialists in a vibrant, engaging experience.
+## Mission
 
-## 🏗 System Design
+Reduce stigma and make emotional support more accessible by offering a private, human-first place to reflect, connect, and heal.
 
-### Architecture Overview
-Mind Haven follows a modern Client-Server architecture:
-- **Frontend**: A highly interactive React application using TypeScript for type safety and Tailwind CSS for its unique Neo-Brutalist aesthetic.
-- **Backend**: A robust Node.js/Express server handling authentication, data persistence, and orchestration between different services.
-- **Database**: MongoDB (Atlas) for storing user profiles, journal entries, chat logs, and specialist metadata.
-- **AI Engine**: Integration with Google Gemini for real-time emotional analysis and empathetic chat interactions.
-- **Microservices**: A Python-based embedding service for advanced semantic search and memory retrieval.
+## What Makes Mind Haven Different
 
-### Key Components
-1. **AI Journaling (Cognitive Lab)**: Analyzes user entries to detect mood trends and provide empathetic feedback.
-2. **Empathetic Chat**: An AI-integrated 24/7 listener for immediate support.
-3. **Standard & Incognito Accounts**: A dual-identity system allowing users to seek help either professionally or anonymously.
-4. **Specialist Network**: A dedicated dashboard for doctors to manage consultations and a directory for users to find help.
-5. **Community Circles**: Safe spaces for peer support.
+- **Anonymous-first design:** Users can participate without revealing their identity.
+- **Peer connection:** Community circles connect people dealing with similar challenges.
+- **Empathetic AI support:** A 24/7 listener for reflection, journaling, and emotional check-ins.
+- **Specialist network:** Find verified professionals when you are ready to seek help.
+- **Mood awareness:** AI-driven insights help users recognize patterns and trends over time.
 
-## 🛠 Tech Stack
-- **Frontend**: React, TypeScript, Tailwind CSS, Lucide/Material Icons.
-- **Backend**: Node.js, Express, Mongoose.
-- **AI/ML**: Google Gemini API, Python (Sentence Transformers/Embeddings).
-- **Auth**: Firebase Authentication with JWT-based session management.
-- **Styling**: Neo-Brutalist design system with custom shadow utilities.
+## Core Experiences
 
-## 🚀 Getting Started
+1. **Cognitive Lab (AI Journaling)**
+   - Write freely and receive supportive, thoughtful responses.
+2. **Empathetic Chat**
+   - A gentle companion for late-night thoughts or immediate support.
+3. **Community Circles**
+   - Safe, moderated spaces built around shared experiences.
+4. **Standard & Incognito Accounts**
+   - Choose between professional care or total anonymity.
+
+## Tech Stack
+
+- **Frontend:** React + TypeScript + Vite
+- **Styling:** Neo-brutalist UI with custom shadow utilities
+- **Backend:** Node.js + Express
+- **Database:** MongoDB Atlas
+- **AI/ML:** Google Gemini + Python embeddings service
+- **Auth:** Firebase Authentication + JWT session management
+
+## Project Structure
+
+```
+.
+├── components/      # Reusable UI components
+├── views/           # Screen-level views
+├── services/        # API/client helpers
+├── server/          # Express backend + AI orchestration
+└── App.tsx          # Frontend entry point
+```
+
+## Getting Started
 
 ### Prerequisites
-- Node.js (v16+)
+
+- Node.js 16+
 - MongoDB Atlas account
-- Google Gemini API Key
-- Firebase Project for Authentication
+- Google Gemini API key
+- Firebase project
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Seventie/Mind-Haven.git
-   ```
-2. Install dependencies:
-   ```bash
-   # Root (Frontend)
-   npm install
-   # Server (Backend)
-   cd server
-   npm install
-   ```
-3. Set up environment variables:
-   Create a `.env` file in the `server` directory and add:
-   ```env
-   MONGODB_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
-   GEMINI_API_KEY=your_gemini_key
-   ```
-4. Start the servers:
-   ```bash
-   # Terminal 1: Backend
-   cd server
-   npm start
-   
-   # Terminal 2: Frontend
-   cd ..
-   npm run dev
-   ```
+### Install Dependencies
 
----
-Contact: [Seventie](https://github.com/Seventie)
+```bash
+# Frontend
+npm install
+
+# Backend
+cd server
+npm install
+```
+
+### Configure Environment
+
+Create a `.env` file in `server/` with:
+
+```env
+MONGODB_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+GEMINI_API_KEY=your_gemini_key
+```
+
+### Run Locally
+
+```bash
+# Terminal 1: Backend
+cd server
+npm start
+
+# Terminal 2: Frontend
+cd ..
+npm run dev
+```
+
+## Contributing
+
+We welcome thoughtful contributions that keep the platform safe, empathetic, and privacy-respecting. Please open an issue or pull request with context about the change and how it supports the mission.
+
+## Contributors
+
+- [@sanhithaac](https://github.com/sanhithaac)
+- [@Seventie](https://github.com/Seventie)
+
+## Contact
+
+Questions or ideas? Reach out via GitHub: [Seventie](https://github.com/Seventie)
