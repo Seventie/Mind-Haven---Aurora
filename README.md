@@ -117,16 +117,7 @@ Aurova is designed to assist—not replace—clinical care. The platform focuses
 └── Images/          # Sample UI screenshots
 ```
 
-## Screenshots
-![Journal & chat experience](Images/WhatsApp%20Image%202026-01-30%20at%2010.40.04%20PM.jpeg)
-![Dashboard views](Images/WhatsApp%20Image%202026-01-30%20at%2010.42.04%20PM.jpeg)
-![Community & wellness hub](Images/WhatsApp%20Image%202026-01-30%20at%2010.42.28%20PM.jpeg)
-![Circle support hub](https://github.com/user-attachments/assets/8b5081e8-5ff2-4bf2-b207-dee1323dafa2)
-![Guided wellness cards](Images/WhatsApp%20Image%202026-01-30%20at%2010.40.25%20PM.jpeg)
-![Expert guidance frame](Images/WhatsApp%20Image%202026-01-30%20at%2010.40.40%20PM.jpeg)
-![Mood tracking frame](Images/WhatsApp%20Image%202026-01-30%20at%2010.41.28%20PM.jpeg)
-![Reports snapshot](Images/WhatsApp%20Image%202026-01-30%20at%2010.41.45%20PM.jpeg)
-![Doctor dashboard frame](Images/WhatsApp%20Image%202026-01-30%20at%2010.42.19%20PM.jpeg)
+## Screenshot of Dark Mode 
 ![Wellness recommendations](Images/WhatsApp%20Image%202026-01-30%20at%2010.42.57%20PM.jpeg)
 
 ## Getting Started
