@@ -86,7 +86,7 @@ Aurova is designed to assist—not replace—clinical care. The platform focuses
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
-![Google%20Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=fff)
 
 ## Module Overview
 - **User Management & Consent** – anonymous access and privacy controls.
