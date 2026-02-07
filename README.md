@@ -2,6 +2,11 @@
 
 Aurova is a privacy-first mental health support platform designed for women and youth who want help without exposing their identity. The platform connects patients, licensed professionals, and anonymous peers in one safe environment for journaling, empathetic AI support, and consent-based care. It is built to reduce stigma, offer early emotional support, and provide clinical insights only when users choose to share them.
 
+## Contributors
+- [@seventie] 
+- [@sanhithaac](https://github.com/sanhithaac)
+
+
 ## Table of Contents
 - [Mission & Problem Statement](#mission--problem-statement)
 - [What Aurova Delivers](#what-aurova-delivers)
@@ -161,6 +166,3 @@ cd ..
 npm run dev
 ```
 
-## Contributors
-- me
-- [@sanhithaac](https://github.com/sanhithaac)
