@@ -6,6 +6,8 @@ Aurova is a privacy-first mental health support platform designed for women and 
 - [@seventie] 
 - [@sanhithaac](https://github.com/sanhithaac)
 
+![Landing page](Images/WhatsApp%20Image%202026-01-30%20at%2010.39.42%20PM.jpeg)
+
 
 ## Table of Contents
 - [Mission & Problem Statement](#mission--problem-statement)
@@ -73,7 +75,7 @@ Aurova is designed to assist—not replace—clinical care. The platform focuses
 - **Database:** MongoDB collections for users, journals, reports, and therapy sessions.
 - **Cloud-ready:** Designed for deployment on AWS or similar infrastructure.
 
-![Aurova architecture diagram](https://github.com/user-attachments/assets/7484e760-980f-4b3e-9f24-9d2a0299a1f1)
+
 
 ## Technology Stack
 - **Frontend:** React + TypeScript + Vite
@@ -83,7 +85,6 @@ Aurova is designed to assist—not replace—clinical care. The platform focuses
 - **Auth:** Firebase Authentication + JWT
 - **Visualization:** Recharts dashboards
 
-## Tech Stack Icons
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
@@ -117,7 +118,6 @@ Aurova is designed to assist—not replace—clinical care. The platform focuses
 ```
 
 ## Screenshots
-![Landing page](Images/WhatsApp%20Image%202026-01-30%20at%2010.39.42%20PM.jpeg)
 ![Journal & chat experience](Images/WhatsApp%20Image%202026-01-30%20at%2010.40.04%20PM.jpeg)
 ![Dashboard views](Images/WhatsApp%20Image%202026-01-30%20at%2010.42.04%20PM.jpeg)
 ![Community & wellness hub](Images/WhatsApp%20Image%202026-01-30%20at%2010.42.28%20PM.jpeg)
